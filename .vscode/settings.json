@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "hello_word.C": "cpp"
+    },
+    "files.watcherExclude": {
+        "**/target": true
     }
 }
